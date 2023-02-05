@@ -6,7 +6,7 @@
 
 https://jm1021.github.io/churchofjesuschrist/
 
-# My Blog
+# Gospel of Jesus Christ blog
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
